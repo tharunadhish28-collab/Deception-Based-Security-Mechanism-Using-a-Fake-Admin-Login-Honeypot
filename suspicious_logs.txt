@@ -1,0 +1,4 @@
+[2026-04-02 15:44:51] | SEVERITY: WARNING | EVENT: Fake Admin Login Page Accessed | IP: 127.0.0.1 | DETAILS: GET request to honeypot. Total attempts from this IP: 1
+[2026-04-02 15:45:24] | SEVERITY: WARNING | EVENT: Unauthorized Login Attempt on Honeypot | IP: 127.0.0.1 | DETAILS: POST with username='admin', password='123456'. Total attempts: 2
+[2026-04-02 18:07:39] | SEVERITY: WARNING | EVENT: Fake Admin Login Page Accessed | IP: 127.0.0.1 | DETAILS: GET request to honeypot. Total attempts from this IP: 1
+[2026-04-02 18:17:13] | SEVERITY: WARNING | EVENT: Unauthorized Login Attempt on Honeypot | IP: 127.0.0.1 | DETAILS: POST with username='admin', password='123456'. Total attempts: 2
