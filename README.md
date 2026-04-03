@@ -1,0 +1,2 @@
+# Deception-Based-Security-Mechanism-Using-a-Fake-Admin-Login-Honeypot
+Deception-Based Security Mechanism Using a Fake Admin Login Honeypot is a cybersecurity project built with Flask that simulates a fake admin login page to attract unauthorized users. The system records suspicious login attempts, logs activity, and demonstrates how deception techniques can be used as an additional layer of web application security.
